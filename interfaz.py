@@ -1,9 +1,9 @@
 import customtkinter as ctk
 from tkinter import messagebox
 import re
-from main import validar_login
-from main import evaluar_contrasena
-from main import validar_anio
+from validaciones import validar_login
+from validaciones import evaluar_contrasena
+from validaciones import validar_anio
 
 # ==========================
 # CONFIGURACIÓN GENERAL
